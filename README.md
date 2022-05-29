@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ronydas12345
+- 👀 I’m interested in command-line languages
+- 🌱 I’m currently completing CS50W
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: dasrony231@gmail.com
