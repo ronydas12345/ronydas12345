@@ -1,5 +1,5 @@
-* Hi, I’m Rony
-* I’m interested in command-line languages
+* Hi, I’m Rony (15M)
+* I’m interested in competitive programming
 * I’m currently getting through:
   * USACO Gold
   * Leetcode
