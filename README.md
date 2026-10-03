@@ -1,4 +1,4 @@
-* Hi, I’m Rony (15M)
+* Hi, I’m Rony (16M)
 * I’m interested in competitive programming
 * I’m currently getting through:
   * USACO Gold
@@ -7,4 +7,3 @@
 * How to reach me:
   * Email: [dasrony231@gmail.com](mailto:dasrony231@gmail.com)
   * Discord: [sonic_boom_10](https://discord.com/users/798673982118559764)
-  * Instagram: [rony_das_mhs](https://www.instagram.com/rony_das_mhs/)
